@@ -2,7 +2,7 @@
 
 ## Introducing: Simon Duprée
 
-I am a full stack JavaScript Developer soon graduating from Founders & Coders, a 16-week full-time coding course that focuses on TDD, agile methodologies, pair-programming, business development and design thinking. Understanding the dynamics of web-technologies and full-stack application development with the support of the community at Founders & Coders continues to be a real pleasure. My personal goal is to remain focussed on coding and to keep pushing myself to exceed current capabilties. Since taking my first coding steps in September 2017, I have suceeded in finding a pursuit that challenges me on a daily basis. Software development requires a high level of patience whilst dealing with time pressures. Team work and effective communication are essential skills in staying productive within a workflow based on continuous integration. My study background and professional experiences provided me with tools to master high levels of analytical thinking and communication. 
+I am a full stack JavaScript Developer based in London. I am currently developing applications for social impact projects working closely together with developers from Gaza and London within the Founders and Coders community (Tech for Better programme). Software development requires a high level of patience whilst dealing with time pressures. Team work and effective communication are essential skills in staying productive within a workflow based on continuous integration. My study background and professional experiences provided me with tools to master high levels of analytical thinking and communication. 
 
 ## Technologies 
 
